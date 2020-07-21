@@ -1,0 +1,45 @@
+2020-07-21 06:34:19 [INFO] Starting minecraft server version 1.2.5
+2020-07-21 06:34:19 [INFO] Loading properties
+2020-07-21 06:34:19 [WARNING] server.properties does not exist
+2020-07-21 06:34:19 [INFO] Generating new properties file
+2020-07-21 06:34:19 [INFO] Starting Minecraft server on *:25565
+2020-07-21 06:34:19 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2020-07-21 06:34:19 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2020-07-21 06:34:19 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ops.txt (No such file or directory)
+2020-07-21 06:34:19 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (No such file or directory)
+2020-07-21 06:34:19 [INFO] Preparing level "world"
+2020-07-21 06:34:19 [INFO] Default game type: 0
+2020-07-21 06:34:19 [INFO] Preparing start region for level 0
+2020-07-21 06:34:20 [INFO] Preparing spawn area: 8%
+2020-07-21 06:34:21 [INFO] Preparing spawn area: 20%
+2020-07-21 06:34:22 [INFO] Preparing spawn area: 32%
+2020-07-21 06:34:23 [INFO] Preparing spawn area: 44%
+2020-07-21 06:34:24 [INFO] Preparing spawn area: 60%
+2020-07-21 06:34:25 [INFO] Preparing spawn area: 69%
+2020-07-21 06:34:26 [INFO] Preparing spawn area: 85%
+2020-07-21 06:34:27 [INFO] Preparing spawn area: 97%
+2020-07-21 06:34:28 [INFO] Done (8,379s)! For help, type "help" or "?"
+2020-07-21 06:34:31 [INFO] CONSOLE: Stopping the server..
+2020-07-21 06:34:31 [INFO] Stopping server
+2020-07-21 06:34:31 [INFO] Saving chunks
+2020-07-21 06:34:41 [INFO] Saving chunks
+2020-07-21 06:34:41 [INFO] Saving chunks
+2020-07-21 06:40:05 [INFO] Starting minecraft server version 1.2.5
+2020-07-21 06:40:06 [INFO] Loading properties
+2020-07-21 06:40:06 [INFO] Starting Minecraft server on *:25565
+2020-07-21 06:40:06 [INFO] Preparing level "world"
+2020-07-21 06:40:06 [INFO] Default game type: 0
+2020-07-21 06:40:06 [INFO] Preparing start region for level 0
+2020-07-21 06:40:07 [INFO] Preparing spawn area: 8%
+2020-07-21 06:40:08 [INFO] Preparing spawn area: 24%
+2020-07-21 06:40:09 [INFO] Preparing spawn area: 40%
+2020-07-21 06:40:10 [INFO] Preparing spawn area: 56%
+2020-07-21 06:40:11 [INFO] Preparing spawn area: 65%
+2020-07-21 06:40:12 [INFO] Preparing spawn area: 77%
+2020-07-21 06:40:13 [INFO] Preparing spawn area: 97%
+2020-07-21 06:40:13 [INFO] Done (7,479s)! For help, type "help" or "?"
+2020-07-21 06:40:19 [INFO] CONSOLE: Stopping the server..
+2020-07-21 06:40:19 [INFO] Stopping server
+2020-07-21 06:40:19 [INFO] Saving chunks
+2020-07-21 06:40:30 [INFO] Saving chunks
+2020-07-21 06:40:30 [INFO] Saving chunks
